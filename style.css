@@ -1,0 +1,39 @@
+.premium{
+    margin-left: 600px;
+}
+.support{
+    padding-left: 20px;
+}
+.download{
+    padding-left: 20px;
+}
+.mac{
+    padding-left: 20px;
+}
+.sign{
+    padding-left:20px ;
+}
+.log{
+    padding-left: 20px;
+}
+.ln{
+    color: white;
+    font-size: 15px;
+}
+.ln:hover{
+    color: green;
+}
+.button{
+    border-radius: 20px;
+    height: 50px;
+    font-weight: 600;
+}
+.button2{
+    border-radius: 20px;
+    height: 50px;
+    font-weight: 600;
+    border: black;
+    color: white;
+    background-color: black;
+}
+
